@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom password encryption\n"
+"POT-Creation-Date: 2014-02-01 00:13+0100\n"
+"PO-Revision-Date: 2014-02-01 00:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom_password_encryption.php:54
+msgid "Custom password encryption option"
+msgstr ""
+
+#: ../custom_password_encryption.php:58
+msgid "Mysql encryption option"
+msgstr ""
+
+#: ../custom_password_encryption.php:60
+msgid "Mysql OLD_PASSWORD()"
+msgstr ""
+
+#: ../custom_password_encryption.php:61
+msgid "Mysql PASSWORD()"
+msgstr ""
+
+#: ../custom_password_encryption.php:62
+msgid "None"
+msgstr ""
+
+#: ../custom_password_encryption.php:64
+msgid "Save"
+msgstr ""
